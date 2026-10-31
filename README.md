@@ -2,7 +2,11 @@
 
 
 
-!\[Executive Overview](screenshots/page1\_executive\_overview.png)
+!\[Executive Overview](./screenshots/page1\_executive\_overview.png)
+
+
+
+\[View Executive Overview Screenshot](./screenshots/page1\_executive\_overview.png)
 
 
 
