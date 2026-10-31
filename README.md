@@ -22,3 +22,9 @@ A one-screen view of sales performance and profit health.
 - Sales grew **64%** from 2023 to 2025 ($8.4M to $13.8M), while profit margin stayed flat at approximately **22%**.
 - **Electronics contributes 53% of revenue** but has the lowest category margin.
 - The **United States** is the largest customer market, followed by Qatar, Saudi Arabia and the UAE.
+
+---
+
+## DAX Documentation
+
+[View DAX Measures](DAX_Measures.md)
