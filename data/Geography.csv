@@ -1,0 +1,33 @@
+Country,ISO3,Region,Continent,Latitude,Longitude
+Qatar,QAT,Middle East,Asia,25.35,51.18
+United Arab Emirates,ARE,Middle East,Asia,23.42,53.85
+Saudi Arabia,SAU,Middle East,Asia,23.89,45.08
+Kuwait,KWT,Middle East,Asia,29.31,47.48
+Bahrain,BHR,Middle East,Asia,26.07,50.56
+Oman,OMN,Middle East,Asia,21.51,55.92
+Jordan,JOR,Middle East,Asia,30.59,36.24
+Turkey,TUR,Middle East,Asia,38.96,35.24
+India,IND,South Asia,Asia,20.59,78.96
+Pakistan,PAK,South Asia,Asia,30.38,69.35
+Japan,JPN,East Asia,Asia,36.2,138.25
+South Korea,KOR,East Asia,Asia,35.91,127.77
+Singapore,SGP,Southeast Asia,Asia,1.35,103.82
+Egypt,EGY,North Africa,Africa,26.82,30.8
+Morocco,MAR,North Africa,Africa,31.79,-7.09
+Nigeria,NGA,Sub-Saharan Africa,Africa,9.08,8.68
+Kenya,KEN,Sub-Saharan Africa,Africa,-0.02,37.91
+South Africa,ZAF,Sub-Saharan Africa,Africa,-30.56,22.94
+United Kingdom,GBR,Western Europe,Europe,55.38,-3.44
+Germany,DEU,Western Europe,Europe,51.17,10.45
+France,FRA,Western Europe,Europe,46.23,2.21
+Netherlands,NLD,Western Europe,Europe,52.13,5.29
+Spain,ESP,Southern Europe,Europe,40.46,-3.75
+Italy,ITA,Southern Europe,Europe,41.87,12.57
+United States,USA,Northern America,North America,37.09,-95.71
+Canada,CAN,Northern America,North America,56.13,-106.35
+Mexico,MEX,Central America,North America,23.63,-102.55
+Brazil,BRA,South America,South America,-14.24,-51.93
+Argentina,ARG,South America,South America,-38.42,-63.62
+Colombia,COL,South America,South America,4.57,-74.3
+Australia,AUS,Australia & New Zealand,Oceania,-25.27,133.78
+New Zealand,NZL,Australia & New Zealand,Oceania,-40.9,174.89

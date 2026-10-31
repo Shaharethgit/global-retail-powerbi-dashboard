@@ -1,0 +1,31 @@
+StoreID,StoreName,City,StoreCountry,StoreRegion,StoreContinent,StoreType,OpenDate,Latitude,Longitude,Manager
+S01,Doha City Center,Doha,Qatar,Middle East,Asia,Mall,2018-05-01,25.29,51.53,Omar K
+S02,Qatar Online Hub,Doha,Qatar,Middle East,Asia,Online,2021-01-01,25.29,51.53,Lina S
+S03,Dubai Mall,Dubai,United Arab Emirates,Middle East,Asia,Mall,2017-03-01,25.2,55.27,Ahmed R
+S04,Abu Dhabi Marina,Abu Dhabi,United Arab Emirates,Middle East,Asia,Mall,2019-09-01,24.45,54.38,Sara M
+S05,UAE Online Hub,Dubai,United Arab Emirates,Middle East,Asia,Online,2021-01-01,25.2,55.27,Yusuf T
+S06,Riyadh Park,Riyadh,Saudi Arabia,Middle East,Asia,Mall,2018-11-01,24.71,46.68,Noor A
+S07,Jeddah Corniche,Jeddah,Saudi Arabia,Middle East,Asia,Street,2016-06-01,21.54,39.17,Khalid H
+S08,KSA Online Hub,Riyadh,Saudi Arabia,Middle East,Asia,Online,2021-06-01,24.71,46.68,Maya D
+S09,Kuwait Avenues,Kuwait City,Kuwait,Middle East,Asia,Mall,2019-02-01,29.38,47.99,Faisal B
+S10,Manama City Centre,Manama,Bahrain,Middle East,Asia,Mall,2020-04-01,26.23,50.59,Huda L
+S11,Muscat Grand,Muscat,Oman,Middle East,Asia,Mall,2020-10-01,23.59,58.41,Salim Q
+S12,Lusail Boulevard,Doha,Qatar,Middle East,Asia,Street,2024-03-01,25.29,51.53,Amal F
+S13,London Oxford Street,London,United Kingdom,Western Europe,Europe,Street,2017-09-01,51.51,-0.13,James W
+S14,Berlin Mitte,Berlin,Germany,Western Europe,Europe,Mall,2018-04-01,52.52,13.4,Katrin M
+S15,Paris Marais,Paris,France,Western Europe,Europe,Street,2018-10-01,48.86,2.35,Claire D
+S16,Madrid Gran Via,Madrid,Spain,Southern Europe,Europe,Street,2019-05-01,40.42,-3.7,Javier R
+S17,Europe Online Hub,London,United Kingdom,Western Europe,Europe,Online,2021-01-01,51.51,-0.13,Oliver H
+S18,New York Fifth Avenue,New York,United States,Northern America,North America,Street,2016-11-01,40.71,-74.01,Michael B
+S19,Los Angeles The Grove,Los Angeles,United States,Northern America,North America,Mall,2018-08-01,34.05,-118.24,Jessica T
+S20,Toronto Eaton Centre,Toronto,Canada,Northern America,North America,Mall,2019-03-01,43.65,-79.38,Ryan C
+S21,Americas Online Hub,New York,United States,Northern America,North America,Online,2021-01-01,40.71,-74.01,Emily S
+S22,Sao Paulo Paulista,Sao Paulo,Brazil,South America,South America,Street,2020-02-01,-23.55,-46.63,Rafael S
+S23,Mumbai Phoenix,Mumbai,India,South Asia,Asia,Mall,2019-07-01,19.08,72.88,Priya N
+S24,Tokyo Ginza,Tokyo,Japan,East Asia,Asia,Street,2018-03-01,35.68,139.69,Kenji T
+S25,Singapore Orchard,Singapore,Singapore,Southeast Asia,Asia,Mall,2024-03-01,1.29,103.85,Wei L
+S26,Asia-Pacific Online Hub,Singapore,Singapore,Southeast Asia,Asia,Online,2021-03-01,1.29,103.85,Hannah P
+S27,Sydney Pitt Street,Sydney,Australia,Australia & New Zealand,Oceania,Street,2019-10-01,-33.87,151.21,Mariam E
+S28,Cairo City Stars,Cairo,Egypt,North Africa,Africa,Mall,2020-01-01,30.04,31.24,Thabo M
+S29,Johannesburg Sandton,Johannesburg,South Africa,Sub-Saharan Africa,Africa,Mall,2020-06-01,-26.2,28.05,Chinedu O
+S30,Lagos Victoria Island,Lagos,Nigeria,Sub-Saharan Africa,Africa,Street,2023-07-01,6.52,3.38,Ngozi A
