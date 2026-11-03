@@ -55,3 +55,19 @@ Analyze product category performance and understand how discounts affect sales p
 - **Electronics contributes 53% of total sales but has only an 8.5% profit margin.**
 - The discount band comparison helps identify how profitability changes across discount levels.
 - The scatter chart highlights differences in profit margins between Subcategories at different discount levels.
+
+
+## Page 3: Stores & Targets
+
+![Stores & Targets](./screenshots/page3_stores_targets.png)
+[View Screenshot](./screenshots/page3_stores_targets.png)
+
+**Purpose:** Show which stores are meeting their sales targets and which are falling behind.
+
+**What it shows:** A scatter chart of sales against target for each store, coloured by target achievement, a table of sales, target and achievement, a bar chart of sales against target for every store, and a monthly line chart for Jeddah, Lusail, Singapore Orchard and Lagos.
+
+**Key findings (2025)**
+
+- Stores reached **120.5%** of target overall: **$13.77M** in sales against a **$11.43M** target.
+- **Jeddah** is the clearest problem: it reached only **72%** of target, and its sales fell every year, from **$286K** in 2023 to **$230K** in 2025. **Muscat (75%)** and **Madrid (77%)** also missed.
+- Three new stores far exceeded their targets: **Singapore Orchard (209%)**, **Lusail (164%)** and **Lagos (164%)**.
