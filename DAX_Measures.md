@@ -39,7 +39,7 @@ AVERAGE DISCOUNT % =
      [GROSS SALES])
 ```
 
-### DISCOUNT BAND
+### Discount band
 
 ```DAX
 Discount band = SWITCH(
@@ -85,12 +85,9 @@ ACHIEVEMENT % =
      [TARGET_SALE])
 ```
 
-
-
-
 ## 2. Page 4 – Customers and Returns
 
-### CUSTOMER RANK
+### Customer Rank
 
 ```DAX
 CUSTOMER RANK = 
@@ -102,5 +99,52 @@ CUSTOMER RANK =
     ))
 ```
 
+### Rank Bar
 
+```DAX
+RANK BAR = 
+    IF(ISINSCOPE(Customers[CustomerID]),SWITCH(
+        TRUE(),
+        Customers[CUSTOMER RANK] = 1, 10,
+        Customers[CUSTOMER RANK] = 2, 9,
+        Customers[CUSTOMER RANK] = 3, 8,
+        Customers[CUSTOMER RANK] = 4, 7,
+        Customers[CUSTOMER RANK] = 5, 6,
+        Customers[CUSTOMER RANK] = 6, 5,
+        Customers[CUSTOMER RANK] = 7, 4,
+        Customers[CUSTOMER RANK] = 8, 3,
+        Customers[CUSTOMER RANK] = 9, 2,
+        1
+    ))
+```
 
+### Return Reason %
+
+```DAX
+RETURN REASON % = 
+    DIVIDE(
+        [RETURN_AMOUNT],
+        CALCULATE(
+            [Total Sales], ALL(Returns[ReturnReason])
+        )
+    )
+```
+
+### Online Share %
+
+```DAX
+ONLINE SHARE % = 
+    DIVIDE([Total Sales],
+        CALCULATE([Total Sales],
+        ALL(Sales[Channel])
+                )
+    )
+```
+
+### Return Rate % 
+
+```DAX
+RETURN_RATE % = 
+    DIVIDE([RETURN_AMOUNT], 
+    [Total Sales])
+```

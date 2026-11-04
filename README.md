@@ -66,8 +66,23 @@ Analyze product category performance and understand how discounts affect sales p
 
 **What it shows:** A scatter chart of sales against target for each store, coloured by target achievement, a table of sales, target and achievement, a bar chart of sales against target for every store, and a monthly line chart for Jeddah, Lusail, Singapore Orchard and Lagos.
 
-**Key findings (2025)**
+### Key findings (2025)**
 
-- Stores reached **120.5%** of target overall: **$13.77M** in sales against a **$11.43M** target.
-- **Jeddah** is the clearest problem: it reached only **72%** of target, and its sales fell every year, from **$286K** in 2023 to **$230K** in 2025. **Muscat (75%)** and **Madrid (77%)** also missed.
+- Stores reached **120.5%** of target overall: **13.77M** in sales against a **11.43M** target.
+- **Jeddah** is the clearest problem: it reached only **72%** of target, and its sales fell every year, from **286K** in 2023 to **230K** in 2025. **Muscat (75%)** and **Madrid (77%)** also missed.
 - Three new stores far exceeded their targets: **Singapore Orchard (209%)**, **Lusail (164%)** and **Lagos (164%)**.
+
+## Page 4: Customers & Returns
+
+![Customers & Returns](screenshots/page4_customers_returns.png)
+
+**Purpose:** Show which customers drive revenue and where returns are costing money.
+
+**What it shows:** Sales and average order value by customer segment, the top 10 customers by sales, return rate by subcategory (refund value as a share of sales), and return rate by reason.
+
+**Key findings**
+
+- **Corporate** customers generate **17,648,243.56** in sales, with an average order value of **3,183.88**, more than five times the Consumer segment's **582.05**.
+- The **top customer**, Chinedu Adeyemi, generated **666,530.75** in sales, about **1.5 times** the second-largest customer (430,634.21).
+- **Footwear** has by far the highest return rate at **17.5%**, against **5.96%** overall. Men's, Women's and Kids' clothing also run above average.
+- **Defective** items are the biggest source of returns: they account for **2.4%** of sales value, about 40% of all refunds, ahead of "not as described" (1.4%).
